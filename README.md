@@ -1,3 +1,3 @@
-# PWWW20-21_Gr11
-Projekti nga lenda Programimi ne WWW
-Faton Salihu , Laberion Ajvazi , Lirak Rushiti
+# BI_20-21_Gr9
+Projekti nga lenda Biznesi dhe Interneti
+Faton Salihu , Fis Geci , Lirak Rushiti
