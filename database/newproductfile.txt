@@ -1,0 +1,7 @@
+Images/products/nurofen.png*Nurofen Zavance*Target headaches at the source faster vs. standard Nurofen*7.79
+Images/products/Desloratadine.png*Chemists' Own Desloratadine*Tablets provides drowsy relief for hayfever, hives and year-round allergies.*29.99
+Images/products/OptiMel.png*Optimel Manuka Dry Eye Drops*For chronic dry eye, sore irritated eyes and eyelids*19.99
+Images/products/Pandol.png*Panadol Tablets*Effective on pain and gentle on stomachs*4.09
+Images/products/Gaviscon.png*Gaviscon Chewable Tablets Peppermint Flavour*Effective relief. Heart & indigestion. New smaller tablet, easier to chew.*10.29
+Images/products/OptisMel.png*Optimel Manuka Dry Eye Drops*For chronic dry eye, sore irritated eyes and eyelids*19.99
+Images/products/OptisssMel.png*Optimel Manuka Dry Eye Drops*For chronic dry eye, sore irritated eyes and eyelids*19.99
